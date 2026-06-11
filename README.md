@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:7c3aed&text=maybeGILGAMESH&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=ai%20engineering%20%7C%20rag%20%7C%20document%20ai%20%7C%20security&descSize=16&descAlignY=60" width="100%" alt="profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:7c3aed&text=maybeGILGAMESH&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Ruslan%20Nazhmutdinov%20%7C%20rag%20%7C%20document%20ai%20%7C%20security&descSize=16&descAlignY=60" width="100%" alt="profile banner" />
 
 [![typing svg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=700&color=7DD3FC&center=true&vCenter=true&width=900&lines=ai+engineer;rag+%7C+document+ai+%7C+multimodal+systems;security+automation+and+llm+evaluation;building+local+ai+systems+that+actually+work)](https://git.io/typing-svg)
 
