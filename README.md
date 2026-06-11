@@ -100,7 +100,7 @@ My main focus is turning research ideas into working pipelines: local LLM/VLM in
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maybeGILGAMESH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="github stats" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maybeGILGAMESH&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 
 </div>
@@ -111,13 +111,7 @@ My main focus is turning research ideas into working pipelines: local LLM/VLM in
 
 </div>
 
-## activity
 
-<div align="center">
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maybeGILGAMESH&theme=tokyo-night&hide_border=true)
-
-</div>
 
 
 ## contact
