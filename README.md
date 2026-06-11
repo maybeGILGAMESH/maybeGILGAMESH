@@ -119,11 +119,6 @@ My main focus is turning research ideas into working pipelines: local LLM/VLM in
 
 </div>
 
-<div align="center">
-
-![snake animation](https://raw.githubusercontent.com/maybeGILGAMESH/maybeGILGAMESH/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ## contact
 
